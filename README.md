@@ -72,8 +72,8 @@
 <h3 align="center"> 🔥 Streaks and Consistency 🔥 </h3>h3>
 <br>
 <div align=center>
-<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=javascript-dark&border_radius=6.5)](https://git.io/streak-stats)" />
-</div>div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=javascript-dark&border_radius=6.5" alt="GitHub Streak" /></a>
+</div>
 <br/>
 
  <hr/>
