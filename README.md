@@ -70,17 +70,22 @@
 <br/>
 
 <h3 align="center"> 🔥 Streaks and Consistency 🔥 </h3>h3>
+<br>
+<div align=center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=dark)](https://git.io/streak-stats)
-
+</div>div>
 <br/>
 
+ <hr/>
+
+ <br/> 
+ 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bye,+Have+a+good+day;" />
 </h1>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=dark)](https://git.io/streak-stats)
 
 <!---
 aakashrana007/aakashrana007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
