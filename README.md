@@ -72,7 +72,7 @@
 <h3 align="center"> 🔥 Streaks and Consistency 🔥 </h3>h3>
 <br>
 <div align=center>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=javascript-dark&border_radius=6.5)](https://git.io/streak-stats)
 </div>div>
 <br/>
 
