@@ -10,14 +10,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Myself**😉
- 
- 🌱 I’m currently learning **Data Science**
+I'm Aakash Rana, a Computer Engineering student passionate about Computers. I'm on a journey to uncover insights from data and build impactful models.
 
-<!-- 💬 Ask me about **React, Firebase... or anything [here](https://github.com/Aryan2079/Aryan2079/issues)** -->
-
-⚡ Fun fact **I'm also an Engineering Student**
-
+- 🌱 Currently learning **Data Science**.
+- 🎓 Studying **Computer Engineering**.
+<!-- 💻 Coding in Python.-->
+- 📊 Interested in data visualization and machine learning.
  </div>
  
 <div align="center"> 
