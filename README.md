@@ -15,7 +15,7 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 🌱 Currently learning **Data Science**.
 🎓 Studying **Computer Engineering**.
 <!-- 💻 Coding in Python.-->
-📊 Interested in data visualization and machine learning.
+📊 Interested in data visualization and machine learning 📊
  </div>
  
 <div align="center"> 
