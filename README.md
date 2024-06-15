@@ -10,7 +10,7 @@
 
 <div align="center">
  
-I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. I'm on a journey to uncover insights from data and build impactful models
+I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. I'm on a journey to uncover insights from data and build impactful models.
 
 🌱 Currently learning **Data Science**🌱
 🎓 Studying **Computer Engineering**🎓
