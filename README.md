@@ -65,10 +65,8 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 
 <hr/>
 
-<br/>
-
 <h3 align="center"> 🔥 Streaks and Consistency 🔥 </h3>
-<br>
+<br/>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aakashrana007&theme=javascript-dark&border_radius=6.5" alt="GitHub Streak" /></a>
 </div>
@@ -77,12 +75,11 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
  <hr/>
 
 <h4 align="center"> 🏆 GitHub Trophy Track 🏅 </h4>
-
 <br>
-<div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=aakashrana007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div class="trophy-container">
+    <iframe src="https://github-profile-trophy.vercel.app/?username=aakashrana007&theme=onedark"></iframe>
 </div>
- <hr/>
+<hr/>
  
  <br/> 
  
