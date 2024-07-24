@@ -74,7 +74,7 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 
  <hr/>
 
-<h4 align="center"> 🏆 GitHub Trophy Track 🏅 </h4>
+<h3 align="center"> 🏆 GitHub Trophy Track 🏅 </h3>
 <br>
 <div class="trophy-container">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
