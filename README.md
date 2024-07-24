@@ -77,10 +77,11 @@ I'm **Aakash Rana**, a Computer Engineering student passionate about Computers. 
 <h4 align="center"> 🏆 GitHub Trophy Track 🏅 </h4>
 <br>
 <div class="trophy-container">
-    <iframe src="https://github-profile-trophy.vercel.app/?username=aakashrana007&theme=onedark"></iframe>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aakashrana007&theme=onedark" alt="GitHub Trophy">
+    </a>
 </div>
 <hr/>
- 
  <br/> 
  
 <h1 align="center">
